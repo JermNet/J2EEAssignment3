@@ -34,6 +34,26 @@ This is an assignment for my J2EE course, we were allowed to do any branch of Sp
 ### application.yml
 ![image](https://github.com/user-attachments/assets/34160f54-c3ea-4824-b8e7-b85702a9bcc2)
 
+## MangaService
+### MangaServiceApplication
+![image](https://github.com/user-attachments/assets/02ebb55d-6130-4626-bdd4-7f0dc17fa5c4)
+
+### application.yml
+![image](https://github.com/user-attachments/assets/177d1fe5-35aa-49e4-9804-bd731d1e7256)
+
+### MangaUIService
+### MangaUIController
+![image](https://github.com/user-attachments/assets/f8cb6f91-f1cd-4024-a1ef-a63a4147e169)
+
+### MovieUIServiceApplication
+![image](https://github.com/user-attachments/assets/8e6f120d-a2f2-450b-ac3a-3f800a65b21e)
+
+### index.html
+![image](https://github.com/user-attachments/assets/bdd70aef-88f9-4118-a834-91aadd2d07a3)
+
+### application.yml
+![image](https://github.com/user-attachments/assets/08325773-892c-44e7-8502-5f815e298ba2)
+
 ## MovieService
 ### MovieServiceApplication
 ![image](https://github.com/user-attachments/assets/68ca840b-a285-4993-9d5e-461fcdff39dc)
@@ -66,3 +86,28 @@ This is an assignment for my J2EE course, we were allowed to do any branch of Sp
 
 ### application.yml
 ![image](https://github.com/user-attachments/assets/5588003f-0253-452f-a705-477d48df5e65)
+
+# USAGE IMAGES
+## EurekaServer
+![image](https://github.com/user-attachments/assets/89c5078f-08c8-4078-bc6f-e1041a61789d)
+
+## GameService
+![image](https://github.com/user-attachments/assets/23a1555e-84bf-4ed2-b1f2-05aa4c9b4d9b)
+
+## GameUIService
+![image](https://github.com/user-attachments/assets/f660ae4f-b225-4b59-9694-d4d1b5c16162)
+
+## MangaService
+![image](https://github.com/user-attachments/assets/1f1066ee-3b30-4a55-8975-aa5d97c82a73)
+
+## MangaUIService
+![image](https://github.com/user-attachments/assets/d57f96a9-ecc1-4702-a435-f478e2bad517)
+
+## MovieService
+![image](https://github.com/user-attachments/assets/4713d3c5-b03d-46b6-a219-0d7f22469e6e)
+
+## MovieUIService
+![image](https://github.com/user-attachments/assets/3564d3ec-7241-4392-84e6-1375df1967e9)
+
+## UIMain
+![image](https://github.com/user-attachments/assets/2e85b4da-bf87-4159-93c0-11ccf774ccba)
