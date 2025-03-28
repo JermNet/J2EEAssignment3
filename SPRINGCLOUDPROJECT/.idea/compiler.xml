@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="EurekaServer" />
-        <module name="MovieUIService" />
-        <module name="UIMain" />
         <module name="MovieService" />
         <module name="GameService" />
         <module name="GameUIService" />
+        <module name="MovieUIService" />
+        <module name="UIMain" />
+        <module name="MangaService" />
+        <module name="MangaUIService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +39,8 @@
       <module name="GameUIService" options="-parameters" />
       <module name="Gateway" options="-parameters" />
       <module name="GatewayRouting" options="-parameters" />
+      <module name="MangaService" options="-parameters" />
+      <module name="MangaUIService" options="-parameters" />
       <module name="MovieService" options="-parameters" />
       <module name="MovieUI" options="-parameters" />
       <module name="MovieUIService" options="-parameters" />
