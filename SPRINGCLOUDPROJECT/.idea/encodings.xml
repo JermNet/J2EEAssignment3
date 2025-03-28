@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EurekaClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GameService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GameUIService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayRouting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MovieService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MovieUI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MovieUIService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NewGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NewerGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Routing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RoutingGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UIHub/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UIMain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UsersService/src/main/java" charset="UTF-8" />
+  </component>
+</project>

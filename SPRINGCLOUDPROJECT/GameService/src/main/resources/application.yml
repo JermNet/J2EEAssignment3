@@ -1,0 +1,17 @@
+server:
+  port: 8086
+
+spring:
+  application:
+    name: game-service
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+# Api key, since this is being posted to github, it'd make sense to save this as a variable on my PC, but leaving it here so it can be freely run
+rawg:
+  api:
+    key: 200cbecf87cf409b8f133f15596c4ba6

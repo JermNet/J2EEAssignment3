@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="MovieUIService" />
+        <module name="UIMain" />
+        <module name="MovieService" />
+        <module name="GameService" />
+        <module name="GameUIService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EurekaClient" target="17" />
+      <module name="Gateway" target="17" />
+      <module name="GatewayRouting" target="17" />
+      <module name="MovieUI" target="17" />
+      <module name="NewerGateway" target="17" />
+      <module name="NewGateway" target="17" />
+      <module name="Routing" target="17" />
+      <module name="RoutingGateway" target="17" />
+      <module name="UIHub" target="17" />
+      <module name="UserService2" target="17" />
+      <module name="UsersService" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EurekaClient" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="GameService" options="-parameters" />
+      <module name="GameUIService" options="-parameters" />
+      <module name="Gateway" options="-parameters" />
+      <module name="GatewayRouting" options="-parameters" />
+      <module name="MovieService" options="-parameters" />
+      <module name="MovieUI" options="-parameters" />
+      <module name="MovieUIService" options="-parameters" />
+      <module name="NewGateway" options="-parameters" />
+      <module name="NewerGateway" options="-parameters" />
+      <module name="Routing" options="-parameters" />
+      <module name="RoutingGateway" options="-parameters" />
+      <module name="UIHub" options="-parameters" />
+      <module name="UIMain" options="-parameters" />
+      <module name="UserService2" options="-parameters" />
+      <module name="UsersService" options="-parameters" />
+    </option>
+  </component>
+</project>
